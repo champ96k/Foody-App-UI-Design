@@ -8,7 +8,7 @@
 
 
 
-UI design credit[RonDesignLab](https://dribbble.com/shots/6687016-Foody-Food-by-Subscription) 
+UI design credit -[RonDesignLab](https://dribbble.com/shots/6687016-Foody-Food-by-Subscription) 
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
